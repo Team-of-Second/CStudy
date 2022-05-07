@@ -1,4 +1,4 @@
-## Array vs LinkedList
+## Array
 
 ### Array란
 
@@ -31,6 +31,3 @@
 2. 배열에 저장된 데이터를 검색하는 작업이 많을 때 : 검색 O(1)
 <br>
 <br>
-  
-### LinkedList란
-
